@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5a6fc69.chunk.css",
+    "main.js": "/static/js/main.9289503f.chunk.js",
+    "main.js.map": "/static/js/main.9289503f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c32d61ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c32d61ac.js.map",
+    "static/css/2.6780e105.chunk.css": "/static/css/2.6780e105.chunk.css",
+    "static/js/2.8738ea65.chunk.js": "/static/js/2.8738ea65.chunk.js",
+    "static/js/2.8738ea65.chunk.js.map": "/static/js/2.8738ea65.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5f9f7d2c90b34ec9160c5f8832284e88.js": "/precache-manifest.5f9f7d2c90b34ec9160c5f8832284e88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6780e105.chunk.css.map": "/static/css/2.6780e105.chunk.css.map",
+    "static/css/main.b5a6fc69.chunk.css.map": "/static/css/main.b5a6fc69.chunk.css.map",
+    "static/js/2.8738ea65.chunk.js.LICENSE.txt": "/static/js/2.8738ea65.chunk.js.LICENSE.txt",
+    "static/media/facebook.png": "/static/media/facebook.7c8d991e.png",
+    "static/media/FreeRide.css": "/static/media/freeride.d3e319d6.svg",
+    "static/media/interval.178113c8.svg": "/static/media/interval.178113c8.svg",
+    "static/media/profile.jpg": "/static/media/profile.96434577.jpg",
+    "static/media/steady.7e9a2283.svg": "/static/media/steady.7e9a2283.svg",
+    "static/media/twitter.png": "/static/media/twitter.d1044b25.png",
+    "static/media/warmdown.a32c38a2.svg": "/static/media/warmdown.a32c38a2.svg",
+    "static/media/warmup.edbffcc7.svg": "/static/media/warmup.edbffcc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c32d61ac.js",
+    "static/css/2.6780e105.chunk.css",
+    "static/js/2.8738ea65.chunk.js",
+    "static/css/main.b5a6fc69.chunk.css",
+    "static/js/main.9289503f.chunk.js"
+  ]
+}
